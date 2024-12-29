@@ -1,0 +1,6 @@
+const INCREASE="INCREASE";
+const DECREASE="DECREASE";
+const RESET="RESET";
+
+
+export {INCREASE,DECREASE,RESET} ;
