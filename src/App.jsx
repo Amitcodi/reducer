@@ -11,7 +11,7 @@ function App() {
       <h1>Counter use Redux</h1>
       <p>{state}</p>
       <button onClick={() => dispatch(inc())}>Increase</button>
-      <button onClick={() => dispatch(dec())}>Decrease</button>
+      <button onClick={() => dispatch(dec())}>Decrease</button>   
       <button onClick={() => dispatch(res())}>Reset</button>
     </>
   )
